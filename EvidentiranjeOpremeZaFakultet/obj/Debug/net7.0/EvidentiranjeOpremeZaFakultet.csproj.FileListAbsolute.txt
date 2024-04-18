@@ -1,0 +1,174 @@
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\appsettings.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.exe
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.deps.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.runtimeconfig.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Domain.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.AssemblyInfoInputs.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.AssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.EvidentiranjeOpremeZaFakultet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.build.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\scopedcss\bundle\EvidentiranjeOpremeZaFakultet.styles.css
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.CopyComplete
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\refint\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.genruntimeconfig.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\ref\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\BusinessLogic.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\BusinessLogic.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\appsettings.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.exe
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.deps.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.runtimeconfig.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\EvidentiranjeOpremeZaFakultet.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\BusinessLogic.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Domain.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\BusinessLogic.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.AssemblyInfoInputs.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.AssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.EvidentiranjeOpremeZaFakultet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.build.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EvidentiranjeOpremeZaFakultet.props
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\scopedcss\bundle\EvidentiranjeOpremeZaFakultet.styles.css
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.csproj.CopyComplete
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\refint\EvidentiranjeOpremeZaFakultet.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\EvidentiranjeOpremeZaFakultet.genruntimeconfig.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\EvidentiranjeOpremeZaFakultet\obj\Debug\net7.0\ref\EvidentiranjeOpremeZaFakultet.dll

@@ -1,0 +1,30 @@
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.deps.json
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.AssemblyInfoInputs.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.AssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\refint\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\ref\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\Domain.dll
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pera\Desktop\projekti\programski IRC\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.CopyComplete
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.deps.json
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\Domain.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.AssemblyInfoInputs.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.AssemblyInfo.cs
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.csproj.CopyComplete
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\refint\DataTransferModel.dll
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\DataTransferModel.pdb
+C:\Users\Pera\Desktop\projekti\projekat za IRC evidentiranje opreme .NET + React\EvidentiranjeOpremeZaFakultet\DataTransferModel\obj\Debug\net7.0\ref\DataTransferModel.dll
