@@ -9,5 +9,6 @@ namespace BusinessLogic.Interfaces
 {
     public interface ITipOpremeLogic : ILogic<TipOpreme>
     {
+        Task<IEnumerable<TipOpreme>> GetAllSubtypes(int subtype);
     }
 }

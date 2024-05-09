@@ -54,6 +54,18 @@ namespace DataAccess.EntityFramework.ZaduzivanjeRepo
             return await context.Zaduzivanje.Include(x => x.Zaposleni).Include(y => y.Oprema).FirstAsync(z => z.ZaduzivanjeId == (int)id);
         }
 
+        public async Task<PaginatedListZaduzivanja> GetPaginatedList(int pageIndex, int pageSize)
+        {
+            var zaduzivanja = await context.Zaduzivanje.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync();
+
+            return new PaginatedListZaduzivanja()
+            {
+                TotalPages = (int)Math.Ceiling(await context.Zaduzivanje.CountAsync() / (double) pageSize),
+                Items = zaduzivanja,
+                PageIndex = pageIndex,
+            };
+        }
+
         public async Task<List<Zaduzivanje>> GetPerKabinet()
         {
 

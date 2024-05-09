@@ -23,14 +23,36 @@ namespace EvidentiranjeOpremeZaFakultet.Controllers
         public IZaduzivanjeLogic ZaduzivanjeLogic { get; }
         public IMapper Mapper { get; }
 
+        //[HttpGet]
+        //public async Task<ActionResult<IEnumerable<GetZaduzivanjeDTO>>> GetAll()
+        //{
+        //    try
+        //    {
+        //        var zaduzivanja = await ZaduzivanjeLogic.GetAll();
+
+        //        return Ok(Mapper.Map<List<GetZaduzivanjeDTO>>(zaduzivanja));
+        //    }
+        //    catch (Exception ex)
+        //    {
+
+        //        return BadRequest(ex.Message);
+        //    }
+        //}
+
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<GetZaduzivanjeDTO>>> GetAll()
+        public async Task<ActionResult<PaginatedListZaduzivanja>> GetPaginatedList([FromQuery] int pageIndex, [FromQuery] int pageSize)
         {
             try
             {
-                var zaduzivanja = await ZaduzivanjeLogic.GetAll();
+                var zaduzivanja = await ZaduzivanjeLogic.GetPaginatedList(pageIndex, pageSize);
 
-                return Ok(Mapper.Map<List<GetZaduzivanjeDTO>>(zaduzivanja));
+                if(zaduzivanja != null)
+                    zaduzivanja.Items = Mapper.Map<List<Zaduzivanje>>(zaduzivanja.Items);
+                else
+                    return BadRequest();
+
+
+                return Ok(zaduzivanja);
             }
             catch (Exception ex)
             {

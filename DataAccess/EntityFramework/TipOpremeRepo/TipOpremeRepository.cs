@@ -29,7 +29,12 @@ namespace DataAccess.EntityFramework.TipOpremeRepo
 
         public async Task<IEnumerable<TipOpreme>> GetAll()
         {
-            return await context.TipOpreme.Where(to => to.NadtipId != null).ToListAsync();
+            return await context.TipOpreme.ToListAsync();
+        }
+
+        public async Task<IEnumerable<TipOpreme>> GetAllSubtypes(int subtype)
+        {
+            return await context.TipOpreme.Where(x => x.NadtipId == subtype).ToListAsync();
         }
 
         public async Task<TipOpreme> GetById(object id)

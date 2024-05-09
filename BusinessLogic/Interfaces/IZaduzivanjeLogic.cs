@@ -18,6 +18,7 @@ namespace BusinessLogic.Interfaces
         public Task<List<Zaduzivanje>> GetPerKabinet();
         //razduzivanje
         public Task<List<string>?> Razduzi(Zaduzivanje entity);
+        public Task<PaginatedListZaduzivanja?> GetPaginatedList(int pageIndex, int pageSize);
 
     }
 }

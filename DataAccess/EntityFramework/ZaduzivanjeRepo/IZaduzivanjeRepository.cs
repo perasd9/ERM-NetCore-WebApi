@@ -12,5 +12,6 @@ namespace DataAccess.EntityFramework.ZaduzivanjeRepo
         public Task<List<Zaduzivanje>> GetPerZaposleni();
         public Task<List<Zaduzivanje>> GetPerKabinet();
         public Task UpdateRazduzivanje(Zaduzivanje entity);
+        public Task<PaginatedListZaduzivanja> GetPaginatedList(int pageIndex, int pageSize);
     }
 }

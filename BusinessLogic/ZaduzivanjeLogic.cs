@@ -166,5 +166,10 @@ namespace BusinessLogic
 
             return null;
         }
+
+        public async Task<PaginatedListZaduzivanja?> GetPaginatedList(int pageIndex, int pageSize)
+        {
+            return await UnitOfWork.ZaduzivanjeRepository.GetPaginatedList(pageIndex, pageSize);
+        }
     }
 }

@@ -37,6 +37,21 @@ namespace EvidentiranjeOpremeZaFakultet.Controllers
                 return BadRequest(ex.Message);
             }
         }
+        [HttpGet("subtypes")]
+        public async Task<ActionResult<IEnumerable<GetTipOpremeDTO>>> GetAllSubtypes([FromQuery] int subtype)
+        {
+            try
+            {
+                var tipoviOpreme = await TipOpremeLogic.GetAllSubtypes(subtype);
+
+                return Ok(Mapper.Map<List<GetTipOpremeDTO>>(tipoviOpreme));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<GetTipOpremeDTO>> GetById([FromRoute]int id)

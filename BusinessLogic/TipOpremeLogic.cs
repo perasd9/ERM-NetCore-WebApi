@@ -33,6 +33,11 @@ namespace BusinessLogic
             return await UnitOfWork.TipOpremeRepository.GetAll();
         }
 
+        public async Task<IEnumerable<TipOpreme>> GetAllSubtypes(int subtype)
+        {
+            return await UnitOfWork.TipOpremeRepository.GetAllSubtypes(subtype);
+        }
+
         public async Task<TipOpreme> GetById(object id)
         {
             return await UnitOfWork.TipOpremeRepository.GetById(id);

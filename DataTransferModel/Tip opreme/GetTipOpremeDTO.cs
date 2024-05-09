@@ -10,5 +10,7 @@ namespace DataTransferModel.Tip_opreme
     {
         public int TipOpremeId { get; set; }
         public string Naziv { get; set; }
+        public int? NadtipId { get; set; }
+
     }
 }

@@ -9,5 +9,6 @@ namespace DataAccess.EntityFramework.TipOpremeRepo
 {
     public interface ITipOpremeRepository : IRepository<TipOpreme>
     {
+        Task<IEnumerable<TipOpreme>> GetAllSubtypes(int subtype);
     }
 }
