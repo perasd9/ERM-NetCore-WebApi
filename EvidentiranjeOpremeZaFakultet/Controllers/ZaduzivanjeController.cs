@@ -80,6 +80,38 @@ namespace EvidentiranjeOpremeZaFakultet.Controllers
             }
         }
 
+        [HttpGet("perzaposleni/{email}")]
+        public async Task<ActionResult<IEnumerable<GetZaduzivanjeDTO>>> GetPerOneZaposleni([FromRoute] string email)
+        {
+            try
+            {
+                var zaduzivanja = await ZaduzivanjeLogic.GetPerOneZaposleni(email);
+
+                return Ok(Mapper.Map<List<GetZaduzivanjeDTO>>(zaduzivanja));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("peroprema/{serijskiBroj}")]
+        public async Task<ActionResult<IEnumerable<GetZaduzivanjeDTO>>> GetPerOneOprema([FromRoute] Guid serijskiBroj)
+        {
+            try
+            {
+                var zaduzivanja = await ZaduzivanjeLogic.GetPerOneOprema(serijskiBroj);
+
+                return Ok(Mapper.Map<List<GetZaduzivanjeDTO>>(zaduzivanja));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
         [HttpGet("groupzaposleni")]
         public async Task<ActionResult<IEnumerable<GetZaduzivanjeDTO>>> GetPerZaposleni()
         {

@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace Domain
 {
@@ -20,6 +21,7 @@ namespace Domain
         public TipOpreme TipOpreme { get; set; }
         public int StanjeId { get; set; } = 1;
         public Status Stanje { get; set; }
+        [JsonIgnore]
         public List<Zaduzivanje> ListaZaduzivanja { get; set; }
         public byte[] RowVersion { get; set; }
     }

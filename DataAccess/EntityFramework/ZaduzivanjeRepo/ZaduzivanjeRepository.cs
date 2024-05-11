@@ -56,7 +56,8 @@ namespace DataAccess.EntityFramework.ZaduzivanjeRepo
 
         public async Task<PaginatedListZaduzivanja> GetPaginatedList(int pageIndex, int pageSize)
         {
-            var zaduzivanja = await context.Zaduzivanje.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync();
+            var zaduzivanja = await context.Zaduzivanje.Include(x => x.Zaposleni).
+                Include(y => y.Oprema).AsNoTracking().Include(k => k.Kabinet).Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync();
 
             return new PaginatedListZaduzivanja()
             {
@@ -79,6 +80,18 @@ namespace DataAccess.EntityFramework.ZaduzivanjeRepo
 
             //await context.Zaduzivanje.GroupBy(z => new { z.Zaposleni }).Include(x => x.Zaposleni).Include(y => y.Oprema).Include(k => k.Kabinet).ToListAsync();
             return lista;
+        }
+
+        public async Task<List<Zaduzivanje>> GetPerOneOprema(Guid serijskiBroj)
+        {
+            return await context.Zaduzivanje.Include(x => x.Zaposleni).Include(y => y.Oprema).Where(x => x.SerijskiBroj == serijskiBroj)
+                .AsNoTracking().Include(k => k.Kabinet).ToListAsync();
+        }
+
+        public async Task<List<Zaduzivanje>> GetPerOneZaposleni(string email)
+        {
+            return await context.Zaduzivanje.Include(x => x.Zaposleni).Include(y => y.Oprema).Where(x => x.Email == email)
+                .AsNoTracking().Include(k => k.Kabinet).ToListAsync();
         }
 
         public async Task<List<Zaduzivanje>> GetPerZaposleni()

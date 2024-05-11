@@ -19,6 +19,8 @@ namespace BusinessLogic.Interfaces
         //razduzivanje
         public Task<List<string>?> Razduzi(Zaduzivanje entity);
         public Task<PaginatedListZaduzivanja?> GetPaginatedList(int pageIndex, int pageSize);
+        public Task<List<Zaduzivanje>> GetPerOneZaposleni(string email);
+        public Task<List<Zaduzivanje>> GetPerOneOprema(Guid serijskiBroj);
 
     }
 }

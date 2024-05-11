@@ -171,5 +171,15 @@ namespace BusinessLogic
         {
             return await UnitOfWork.ZaduzivanjeRepository.GetPaginatedList(pageIndex, pageSize);
         }
+
+        public async Task<List<Zaduzivanje>> GetPerOneZaposleni(string email)
+        {
+            return await UnitOfWork.ZaduzivanjeRepository.GetPerOneZaposleni(email);
+        }
+
+        public async Task<List<Zaduzivanje>> GetPerOneOprema(Guid serijskiBroj)
+        {
+            return await UnitOfWork.ZaduzivanjeRepository.GetPerOneOprema(serijskiBroj);
+        }
     }
 }

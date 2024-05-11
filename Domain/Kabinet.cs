@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace Domain
 {
@@ -15,6 +16,7 @@ namespace Domain
         public int KabinetId { get; set; }
         public string Naziv { get; set; }
         public List<Zaposleni> ListaZaposlenih { get; set; }
+        [JsonIgnore]
         public List<Zaduzivanje> ListaZaduzivanja { get; set; }
     }
 }
